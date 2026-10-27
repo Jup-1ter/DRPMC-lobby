@@ -1,0 +1,9 @@
+name: Lobby
+version: '1.0'
+main: ru.darkrpmc.Lobby
+description: Сервер лобби Minecraft DarkRP
+authors: [Alpha812]
+website: https://github.com/Alpha812/DarkRPMinecraftLobby
+api-version: '1.21.4'
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:2.1.0

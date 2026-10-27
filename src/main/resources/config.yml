@@ -1,0 +1,11 @@
+mod-version: 1
+
+servers:
+
+messages:
+  out-of-bounds: "Использование читов"
+
+database:
+  url:
+  user:
+  password:

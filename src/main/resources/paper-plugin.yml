@@ -1,0 +1,8 @@
+name: Lobby
+version: '1.0'
+main: ru.darkrpmc.Lobby
+api-version: '1.21.4'
+authors: [Alpha812]
+description: Сервер лобби Minecraft DarkRP
+website: https://github.com/Alpha812/DarkRPMinecraftLobby
+loader: ru.darkrpmc.DRPMCLoader
